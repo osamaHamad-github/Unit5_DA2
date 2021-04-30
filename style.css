@@ -1,0 +1,20 @@
+#page {
+  background-color: magenta;
+}
+
+#my-name {
+  color: purple;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 60px;
+}
+
+#pop-button {
+  border: none;
+  font-size: 25px;
+  color: purple;
+  border-radius: 2px;
+  padding: 5px;
+  background-color: violet;
+}
+
+#pop-button:hover{ background-color: blueviolet; }
